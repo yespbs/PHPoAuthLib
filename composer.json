@@ -14,7 +14,8 @@
         },
         {
             "name": "Priyabrata Sarkar",
-            "email": "yespbs@gmail.com"
+            "email": "yespbs@gmail.com",
+            "role": "Contributor"
         }
     ],
     "require": {
