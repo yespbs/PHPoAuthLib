@@ -79,6 +79,7 @@ Included service implementations
     - Ustream
     - Vkontakte
     - Yammer
+    - Stripe
 - more to come!
 
 Examples
