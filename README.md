@@ -5,12 +5,12 @@ PHPoAuthLib provides oAuth support in PHP 5.3+ and is very easy to integrate wit
 [![Build Status](https://travis-ci.org/Lusitanian/PHPoAuthLib.png?branch=master)](https://travis-ci.org/Lusitanian/PHPoAuthLib)
 [![Code Coverage](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/badges/coverage.png?s=a0a15bebfda49e79f9ce289b00c6dfebd18fc98e)](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/badges/quality-score.png?s=c5976d2fefceb501f0d886c1a5bf087e69b44533)](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/)
-[![Latest Stable Version](https://poser.pugx.org/yespbs/oauth/v/stable.png)](https://packagist.org/packages/yespbs/oauth)
-[![Total Downloads](https://poser.pugx.org/yespbs/oauth/downloads.png)](https://packagist.org/packages/yespbs/oauth)
+[![Latest Stable Version](https://poser.pugx.org/lusitanian/oauth/v/stable.png)](https://packagist.org/packages/lusitanian/oauth)
+[![Total Downloads](https://poser.pugx.org/lusitanian/oauth/downloads.png)](https://packagist.org/packages/lusitanian/oauth)
 
 Installation
 ------------
-This library can be found on [Packagist](https://packagist.org/packages/yespbs/oauth).
+This library can be found on [Packagist](https://packagist.org/packages/lusitanian/oauth).
 The recommended way to install this is through [composer](http://getcomposer.org).
 
 Edit your `composer.json` and add:
@@ -18,7 +18,7 @@ Edit your `composer.json` and add:
 ```json
 {
     "require": {
-        "yespbs/oauth": "~0.3"
+        "lusitanian/oauth": "~0.3"
     }
 }
 ```
